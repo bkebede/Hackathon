@@ -7,7 +7,7 @@
 
 
 
-
+```python
 while(dead==False):
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
@@ -19,6 +19,7 @@ while(dead==False):
             all_circle_list.add(bullet)
             bullet_list.add(bullet)
             bulletCount+=1
+```
 
 The code above shows the input process within the game, where if you click on your mouse, then a bullet is prompted to shoot at the target wherever you place your mouse cursor. The count to how many bullets you have used goes up by one as the score is reported back to you at the end, showing how many bullets were used as well as your shooting accuracy. 
 
