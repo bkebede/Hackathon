@@ -65,5 +65,7 @@ The code above gives you the final output of the game, which is a report on your
 
 
 [Source Code](https://github.com/bkebede/Hackathon/blob/master/Sniper.py)
+
 [Alternate source for video](https://github.com/bkebede/Hackathon/blob/master/Python%20Hackathon.mp4)
+
 [About Me](https://bkebede.github.io/)
