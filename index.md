@@ -62,3 +62,8 @@ The code above shows the input process within the game, where if you click on yo
 ```
 
 The code above gives you the final output of the game, which is a report on your performance. It will display how long it took you to win the game in seconds. It will tell you how many bullets you needed to use and it will tell you your shooting accuracy based off how many bullets needed to hit all the targets in a percentage format. 
+
+
+[Source Code](https://github.com/bkebede/Hackathon/blob/master/Sniper.py)
+[Alternate source for video](https://github.com/bkebede/Hackathon/blob/master/Python%20Hackathon.mp4)
+[About Me](https://bkebede.github.io/)
